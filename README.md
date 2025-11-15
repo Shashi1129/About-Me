@@ -1,8 +1,7 @@
 # About Me
 
 # Hi, I'm Shashi 👋
-BSc IT Undergraduate | Aspiring Full-Stack Developer | Passionate about AI, Web Development & Data Analytics 
-Always learning and building innovative projects
+BSc IT Undergraduate | Aspiring Full-Stack Developer | Passionate about AI, Web Development & Data Analytics | Always learning and building innovative projects
 
 ## Languages & Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
